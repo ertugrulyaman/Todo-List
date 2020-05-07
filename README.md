@@ -1,3 +1,4 @@
 # Todo-List
 
-Javascipt todo list projesi
+HTML, Javascript, Bootstrap
+Todo list projesi
